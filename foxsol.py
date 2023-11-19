@@ -10,4 +10,3 @@ def foxsol(distance):
                 
                 
             
-print(foxsol(149))
